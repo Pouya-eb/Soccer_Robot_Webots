@@ -1,0 +1,56 @@
+{"datetime": "2022-05-29T18:54:05.629056Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-05-29T18:54:05.654704Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2022-05-29T18:54:08.577036Z", "matchtime": 2.8480000000034806, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-05-29T18:54:11.766204Z", "matchtime": 5.856000000007157, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-05-29T18:54:22.174264Z", "matchtime": 15.904000000019437, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:54:27.329227Z", "matchtime": 20.896000000025538, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:54:32.642222Z", "matchtime": 25.952000000031717, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:54:43.110999Z", "matchtime": 36.000000000044, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:54:46.939513Z", "matchtime": 39.648000000048455, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:54:53.692492Z", "matchtime": 46.04800000005628, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:55:02.676918Z", "matchtime": 54.688000000066836, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:55:04.208100Z", "matchtime": 56.09600000006856, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:55:14.674086Z", "matchtime": 66.14400000008084, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:55:19.910487Z", "matchtime": 70.65600000008635, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:55:25.692359Z", "matchtime": 76.19200000009312, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:55:35.598612Z", "matchtime": 85.69600000010473, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:55:36.161121Z", "matchtime": 86.2400000001054, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:55:46.615216Z", "matchtime": 96.2880000001029, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:55:51.287085Z", "matchtime": 100.73600000010043, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:55:57.130898Z", "matchtime": 106.33600000009733, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:56:06.897402Z", "matchtime": 115.7760000000921, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:56:07.506715Z", "matchtime": 116.38400000009176, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:56:17.945020Z", "matchtime": 126.43200000008619, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:56:22.538809Z", "matchtime": 130.81600000008376, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:56:28.476335Z", "matchtime": 136.48000000008062, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:56:38.242839Z", "matchtime": 145.85600000007543, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:56:38.961591Z", "matchtime": 146.52800000007505, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:56:49.369378Z", "matchtime": 156.57600000006948, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:56:53.853758Z", "matchtime": 160.8960000000671, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:56:59.854145Z", "matchtime": 166.62400000006392, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:57:09.672394Z", "matchtime": 175.93600000005875, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:57:10.432197Z", "matchtime": 176.67200000005835, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:57:21.152676Z", "matchtime": 186.72000000005278, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:57:27.144895Z", "matchtime": 192.38400000004964, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:57:31.684662Z", "matchtime": 196.7680000000472, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:57:42.138038Z", "matchtime": 206.81600000004164, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:57:42.773446Z", "matchtime": 207.4240000000413, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:57:52.692052Z", "matchtime": 216.86400000003607, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:58:00.426364Z", "matchtime": 224.35200000003192, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:58:03.098753Z", "matchtime": 226.9120000000305, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:58:13.540999Z", "matchtime": 236.96000000002493, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:58:16.104571Z", "matchtime": 239.3920000000236, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:58:23.901258Z", "matchtime": 247.00800000001936, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:58:31.439607Z", "matchtime": 254.43200000001525, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:58:34.065090Z", "matchtime": 257.0560000000138, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:58:44.431058Z", "matchtime": 267.1040000000082, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:58:46.843128Z", "matchtime": 269.4720000000069, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:58:54.715542Z", "matchtime": 277.15200000000266, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:59:02.412144Z", "matchtime": 284.5119999999986, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:59:05.151090Z", "matchtime": 287.1999999999971, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:59:15.335322Z", "matchtime": 297.2479999999915, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-05-29T18:59:17.711826Z", "matchtime": 299.55199999999024, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-05-29T18:59:20.622807Z", "matchtime": 302.27199999998874, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-05-29T18:59:24.025989Z", "matchtime": 305.27999999998707, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-05-29T18:59:27.196205Z", "matchtime": 308.41599999998533, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-05-29T18:59:30.755105Z", "matchtime": 311.42399999998366, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}

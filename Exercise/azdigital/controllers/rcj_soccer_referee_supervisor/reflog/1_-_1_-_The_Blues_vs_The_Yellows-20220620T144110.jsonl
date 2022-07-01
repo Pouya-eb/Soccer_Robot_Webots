@@ -1,0 +1,6 @@
+{"datetime": "2022-06-20T14:41:10.456468Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "Y"}}
+{"datetime": "2022-06-20T14:41:10.503361Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2022-06-20T14:41:23.779268Z", "matchtime": 4.160000000005084, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-06-20T14:41:37.656601Z", "matchtime": 16.89600000002065, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2022-06-20T14:41:41.219890Z", "matchtime": 19.904000000024325, "event": "KICKOFF", "payload": {"robot_name": "B1", "team_name": "B"}}
+{"datetime": "2022-06-20T14:44:35.618937Z", "matchtime": 32.92800000004024, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
