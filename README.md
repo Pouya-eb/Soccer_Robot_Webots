@@ -5,7 +5,7 @@
 
 **Team members:**
 * Ali Entezari
-* Pouya Ibrahimi
+* Pouya Ebrahimi
 * Sevil Xojasteh
 * Alireza Qolami
 
